@@ -1,3 +1,4 @@
+# ![SafeRoute Logo](./saferoute.png)
 # SafeRoute
 
 ## Project Overview
