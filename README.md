@@ -1,4 +1,3 @@
-# ![SafeRoute Logo](./saferoute.png)
 # SafeRoute
 
 ## Project Overview
@@ -31,6 +30,7 @@ SafeRoute is a React-based web application that provides real-time disaster aler
 - **CloudFront**: Accelerates global delivery of static assets and provides DDoS protection.
 - **Cognito**: Handles user authentication, registration, and access control for shelter status updates.
 - **Lambda**: Executes background tasks such as refreshing disaster data, integrating external APIs, and automating notifications.
+# ![SafeRoute Logo](./saferoute.png)
 
 #### Deployment Best Practices
 - Deploy EC2 instances in private subnets, expose only ALB to the internet.
